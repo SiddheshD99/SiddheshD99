@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4a0008,50:8a0015,100:4a0008&height=180&section=header&text=SIDDHESH%20DAHIPHALE&fontSize=40&fontColor=00F0FF&animation=fadeIn&fontAlignY=45&desc=%3E%20CYBERSECURITY_GRADUATE.exe&descAlignY=70&descSize=16&descAlign=50&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4a0008,50:8a0015,100:4a0008&height=180&section=header&text=SIDDHESH%20DAHIPHALE&fontSize=40&fontColor=00F0FF&animation=fadeIn&fontAlignY=45&desc=%3E%20CYBERSECURITY.exe&descAlignY=70&descSize=16&descAlign=50&fontAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&background=00000000&lines=%3E+initializing+profile...;%3E+cloud_security+%7C+grc+%7C+soc;%3E+Mumbai_origin%2C+Dublin_node;%3E+status%3A+open_to_work)](https://git.io/typing-svg)
 
