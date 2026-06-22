@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0008,50:1a0010,100:0d0008&height=180&section=header&text=SIDDHESH%20DAHIPHALE&fontSize=40&fontColor=F4E04D&animation=fadeIn&fontAlignY=45&desc=%3E%20CYBERSECURITY_GRADUATE.exe&descAlignY=70&descSize=16&descAlign=50&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4a0008,50:8a0015,100:4a0008&height=180&section=header&text=SIDDHESH%20DAHIPHALE&fontSize=40&fontColor=00F0FF&animation=fadeIn&fontAlignY=45&desc=%3E%20CYBERSECURITY_GRADUATE.exe&descAlignY=70&descSize=16&descAlign=50&fontAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=F4E04D&center=true&vCenter=true&width=600&background=00000000&lines=%3E+initializing+profile...;%3E+cloud_security+%7C+grc+%7C+soc;%3E+Mumbai_origin%2C+Dublin_node;%3E+status%3A+open_to_work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=600&background=00000000&lines=%3E+initializing+profile...;%3E+cloud_security+%7C+grc+%7C+soc;%3E+Mumbai_origin%2C+Dublin_node;%3E+status%3A+open_to_work)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,7 @@
 <tr>
 <td align="center" width="220">
 <h3>☁️</h3>
-<b style="color:#F4E04D;">CLOUD_SECURITY</b><br>
+<b style="color:#00F0FF;">CLOUD_SECURITY</b><br>
 <sub>Azure · AWS · Entra ID</sub>
 </td>
 <td align="center" width="220">
@@ -60,17 +60,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/BASH-000000?style=for-the-badge&logo=gnu-bash&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/AZURE-000000?style=for-the-badge&logo=microsoft-azure&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=F4E04D" />
+<img src="https://img.shields.io/badge/PYTHON-8a0015?style=for-the-badge&logo=python&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/BASH-8a0015?style=for-the-badge&logo=gnu-bash&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/AZURE-8a0015?style=for-the-badge&logo=microsoft-azure&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/AWS-8a0015?style=for-the-badge&logo=amazon-aws&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/LINUX-8a0015?style=for-the-badge&logo=linux&logoColor=00F0FF" />
 <br>
-<img src="https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/MICROSOFT_SENTINEL-000000?style=for-the-badge&logo=microsoft&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=F4E04D" />
-<img src="https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=F4E04D" />
+<img src="https://img.shields.io/badge/SPLUNK-8a0015?style=for-the-badge&logo=splunk&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/MICROSOFT_SENTINEL-8a0015?style=for-the-badge&logo=microsoft&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/DOCKER-8a0015?style=for-the-badge&logo=docker&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/GIT-8a0015?style=for-the-badge&logo=git&logoColor=00F0FF" />
+<img src="https://img.shields.io/badge/VS_CODE-8a0015?style=for-the-badge&logo=visual-studio-code&logoColor=00F0FF" />
 
 </div>
 
@@ -80,13 +80,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SiddheshD99&count_private=true&show_icons=true&theme=blueberry&title_color=F4E04D&icon_color=F4E04D&text_color=e0e0e0&bg_color=0d0008&border_color=F4E04D&hide_border=false" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SiddheshD99&theme=blueberry&background=0d0008&ring=F4E04D&fire=F4E04D&currStreakLabel=F4E04D&border=F4E04D&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=SiddheshD99&count_private=true&show_icons=true&theme=blueberry&title_color=00F0FF&icon_color=00F0FF&text_color=e0e0e0&bg_color=4a0008&border_color=F4E04D&hide_border=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SiddheshD99&theme=blueberry&background=4a0008&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&border=F4E04D&hide_border=false" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshD99&langs_count=8&theme=blueberry&title_color=F4E04D&text_color=e0e0e0&bg_color=0d0008&border_color=F4E04D&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshD99&langs_count=8&theme=blueberry&title_color=00F0FF&text_color=e0e0e0&bg_color=4a0008&border_color=F4E04D&hide_border=false" />
 </div>
 
 <br>
@@ -131,14 +131,14 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F4E04D)](https://www.linkedin.com/in/siddhesh-dahiphale)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=F4E04D)](https://github.com/SiddheshD99)
-[![Gmail](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=F4E04D)](mailto:sid.dahiphale3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8a0015?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/siddhesh-dahiphale)
+[![GitHub](https://img.shields.io/badge/GITHUB-8a0015?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/SiddheshD99)
+[![Gmail](https://img.shields.io/badge/EMAIL-8a0015?style=for-the-badge&logo=gmail&logoColor=00F0FF)](mailto:sid.dahiphale3@gmail.com)
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0008,50:1a0010,100:0d0008&height=100&section=footer&text=END_OF_LINE&fontSize=14&fontColor=F4E04D" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:4a0008,50:8a0015,100:4a0008&height=100&section=footer&text=END_OF_LINE&fontSize=14&fontColor=00F0FF" />
 </div>
